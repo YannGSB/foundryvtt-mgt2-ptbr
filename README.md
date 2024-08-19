@@ -16,3 +16,7 @@ support for Mongoose Publishing Traveller.
 
 Specially developed for the French version translated by [Modül](https://www.gameontabletop.com/cf3161/traveller-vf.html)
 
+## Português
+Este sistema para [Foundry Virtual Tabletop](http://foundryvtt.com) oferece suporte para fichas de personagem e sistemas de jogo para o Traveller da Mongoose Publishing.
+
+Desenvolvido especialmente para a versão francesa traduzida por [Modül](https://www.gameontabletop.com/cf3161/traveller-vf.html).
