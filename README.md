@@ -1,6 +1,6 @@
 # MGT2 - Mongoose Traveller (Unofficial)
 
-*English version below*
+*English and Brazilian Portuguese versions below*
 
 Ce système de jeu pour [Foundry Virtual Tabletop](http://foundryvtt.com) qui fournit une feuille de personnage et un système de jeu
 pour Mongoose Publishing Traveller.
@@ -17,6 +17,6 @@ support for Mongoose Publishing Traveller.
 Specially developed for the French version translated by [Modül](https://www.gameontabletop.com/cf3161/traveller-vf.html)
 
 ## Português
-Este sistema para [Foundry Virtual Tabletop](http://foundryvtt.com) oferece suporte para fichas de personagem e sistemas de jogo para o Traveller da Mongoose Publishing.
+Este sistema de jogo para [Foundry Virtual Tabletop](http://foundryvtt.com) oferece suporte para fichas de personagem e mecânicas de jogo para o Traveller da Mongoose Publishing.
 
 Desenvolvido especialmente para a versão francesa traduzida por [Modül](https://www.gameontabletop.com/cf3161/traveller-vf.html).
